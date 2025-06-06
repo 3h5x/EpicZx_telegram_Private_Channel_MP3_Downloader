@@ -18,6 +18,7 @@ EpicZx makes it easy — download any audio by entering its document ID.
 
 ## 📝 How to use
 ( first you need to download the zip file and add the extention folder to chrome: a simple video[https://www.youtube.com/watch?v=oswjtLwCUqg] )
+
 1️⃣ Open [https://web.telegram.org](https://web.telegram.org)  
 2️⃣ Play the audio you want → this will load the `progressive/document` URL  
 3️⃣ Open the **Network tab** in DevTools → you will see a URL like:  
